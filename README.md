@@ -9,8 +9,6 @@
   <img align="center" alt="Gabi-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />       
   <img align="center" alt="Gabi-SQL" height="50" width="50" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
-  <img align="center" alt="Gabi-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Gabi-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  
 </div>
   
