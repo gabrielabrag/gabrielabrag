@@ -4,7 +4,7 @@
 
 •	📚 Estudando Machine Learning e Inteligência Artificial
 
-•	🌱 Connheço o Python e SQL
+•	🌱 Connheço Python e SQL
 
 <div align="center">
   <a href="https://github.com/gabrielabrag">
