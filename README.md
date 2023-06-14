@@ -1,7 +1,8 @@
 ## Oiii eu sou a Gabriela Braga!
 
-🔭 Hoje eu trabalho com Dados & Analytics
-📚 Estudando SQL, Power BI e Python
+🔭 Hoje eu trabalho com Engenharia de Dados
+
+📚 Estudando Python
 <div align="center">
   <a href="https://github.com/gabrielabrag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielabrag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
