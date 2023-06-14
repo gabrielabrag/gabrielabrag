@@ -1,6 +1,6 @@
 ## Oiii eu sou a Gabriela Braga!
 
-•	🔭 Trabalho com Engenharia de Dados
+•	🔭 Trabalhando com Engenharia de Dados
 
 •	📚 Estudando Machine Learning e Inteligência Artificial
 
