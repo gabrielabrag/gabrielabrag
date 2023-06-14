@@ -1,6 +1,6 @@
 ## Oiii eu sou a Gabriela Braga!
 
-🔭 Hoje eu trabalho com Engenharia de Dados
+🔭 Trabalho com Engenharia de Dados
 
 📚 Estudando Python
 <div align="center">
