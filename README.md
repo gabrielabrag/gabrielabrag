@@ -1,7 +1,7 @@
 ## Oiii eu sou a Gabriela Braga!
 
 •	🔭 Trabalhando com Engenharia de Dados                                                                                            
-•	📚 Estudando Machine Learning e Inteligência Artificial
+•	📚 Estudante Machine Learning e Inteligência Artificial
 
 <div align="center">
   <a href="https://github.com/gabrielabrag">
